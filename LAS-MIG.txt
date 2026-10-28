@@ -1,0 +1,39 @@
+MIN ELEKTRIKER — DESIGNFÖRSLAG
+
+Öppna index.html. Behåll alla mappar och filer tillsammans.
+För GitHub Pages eller webbhotell: ladda upp HELA innehållet i denna mapp,
+så att index.html ligger direkt i webbplatsens rot. Enbart indexfilen räcker inte.
+Alla bilder och typsnitt finns lokalt i assets/. Inget byggsteg krävs.
+
+DETTA INGÅR
+Startsida, tjänsteöversikt och 69 tjänstesidor, företag/BRF, projektgalleri,
+om oss, kontakt, egna produkter, support och en webbutik med 829 produktsidor.
+Produktsökning, kategorifilter och sortering fungerar. Varukorgen är lokal
+i webbläsaren och endast till för att demonstrera designen.
+9 produkter har fullständiga variantval från originalet. Övriga produkter
+med valbara utföranden hänvisar till kontakt för rätt pris och utförande.
+
+DESIGN FÖRST — INGEN AKTIVERAD KASSA
+Inga beställningar skickas och ingen betalning sker. Telefon- och mejllänkar
+är riktiga. Projektfältet på kontaktsidan öppnar besökarens mejlprogram;
+besökaren skickar själv därifrån. Det finns inget anslutet kontaktformulär.
+
+INFÖR EN RIKTIG LANSERING
+Anslut produkt-/lagerdata, orderhantering och betalning till vald ehandel.
+Bekräfta prisvisning/moms, avdrag, leveransvillkor och tillgänglighet.
+Ta fram aktuella köp- och integritetsvillkor. Lägg till slutlig domän,
+kanoniska länkar och sitemap. Ta bort noindex och ändra robots.txt först
+när den riktiga webbplatsen ska bli sökbar. Förslaget är avsiktligt noindex.
+
+UNDERLAG
+Företagsinformation och foton: www2.min-elektriker.se och www.min-elektriker.se.
+Produktdata/priser hämtade 28 oktober 2026. 74 produkter saknade bild i
+originalunderlaget; dessa visas ärligt med text i stället för påhittad bild.
+Omdöme: Reco, Hörnefors Eltjänst AB. 5,0 från ett omdöme, Anders W 2024-05-30.
+Kundrelationen är inte kontrollerad av Reco. Inga extra betyg har lagts till.
+Ingen video hittades i de granskade företagssidorna.
+
+UTFÖRANDE
+Statisk HTML/CSS/JavaScript. Lokala optimerade WebP-bilder, egenhostat
+Public Sans och Tabler-ikoner. Inga spårningsskript eller inbäddade
+tredjepartswidgets laddas automatiskt.
